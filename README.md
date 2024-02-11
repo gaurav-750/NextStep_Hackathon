@@ -1,3 +1,6 @@
+<h2>Deployment Link:</h2>
+https://pred-diabetes.vercel.app/
+
 <h2>What it does:</h2>
 It basically gives a probability of whether the person is non-diabetic, pre-diabetic, or diabetic. Hence he/she can take necessary actions relevant to it.
 
